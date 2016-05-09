@@ -16,7 +16,7 @@ public class Screw extends Item {
 	
 	public Screw(int id) {
 		super(id);
-		setMaxStackSize(64);
+		setMaxStackSize(100);
 		setCreativeTab(CreativeTabs.tabMaterials);
 		setUnlocalizedName("Screw");
 		setTextureName("minespace:Screw");
