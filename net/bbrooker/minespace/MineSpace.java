@@ -242,18 +242,19 @@ public class MineSpace {
  		LanguageRegistry.addName(GuardianCoin, "Guardian Coin");
                 LanguageRegistry.addName(SinsCoin, "Sins Coin");
  		LanguageRegistry.addName(ReclassCoin, "Reclass Coin");
- 		LanguageRegistry.addName(AirLicense, "Air License");
+
  		
  		//ITEM LICENSE
+  		LanguageRegistry.addName(AirLicense, "Air License");
                 LanguageRegistry.addName(WeaponLicense, "Weapon License");
- 		LanguageRegistry.addName(LargeWeaponLicense, "LargeWeapon License");
+ 		LanguageRegistry.addName(LargeWeaponLicense, "Large-Weapon License");
  		LanguageRegistry.addName(SpeederLicense, "Speeder License");
                 LanguageRegistry.addName(CitizenID, "Citizen ID");
  		LanguageRegistry.addName(OutlawID, "Outlaw ID");
                 LanguageRegistry.addName(PoliceID, "Police ID");
  		LanguageRegistry.addName(GiaID,"GIA ID"); // Fix it to Upper-case charactor
  		LanguageRegistry.addName(RebelID,"Rebel ID");
- 		LanguageRegistry.addName(LargeShipLicense,"LargeShip License");
+ 		LanguageRegistry.addName(LargeShipLicense,"Large-Ship License");
  		LanguageRegistry.addName(WingsLicense,"Wings License");
  		LanguageRegistry.addName(RoboticLicense,"Robotic License");
  		
