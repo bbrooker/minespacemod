@@ -25,7 +25,7 @@ public class WingsLicense extends Item {
 	@SideOnly(Side.CLIENT) //add item lore
 	public void addInformation(ItemStack itemStack, EntityPlayer entityPlayer, List list, boolean is)
 		{
-		list.add("[GS] Use for exchange item"); //EDIT HERE
+		list.add("[License] Drivable Military Aircraft"); 
 		}
 		
 	}
