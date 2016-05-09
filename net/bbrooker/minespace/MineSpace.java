@@ -44,10 +44,10 @@ public class MineSpace {
 	public static final Item Metal = new Metal(1104).setUnlocalizedName("Metal").setMaxStackSize(100);
 	public static final Item Titanium = new Titanium(1105).setUnlocalizedName("Titanium").setMaxStackSize(1);
 	public static final Item Aluminium = new Aluminium(1106).setUnlocalizedName("Aluminium").setMaxStackSize(1);
-	public static final Item Lead = new Lead(1107).setUnlocalizedName("Lead").setMaxStackSize(1);
+	public static final Item Tiberium = new Tiberium(1107).setUnlocalizedName("Tiberium").setMaxStackSize(1);
 	public static final Item Iradium = new Iradium(1108).setUnlocalizedName("Iradium").setMaxStackSize(1);
 	public static final Item Silver = new Silver(1109).setUnlocalizedName("Silver").setMaxStackSize(1);
-	public static final Item Tungsten = new Tungsten(1110).setUnlocalizedName("Tungsten").setMaxStackSize(1);
+	public static final Item Voxadium = new Voxadium(1110).setUnlocalizedName("Voxadium").setMaxStackSize(1);
   	public static final Item Fiber = new Fiber(1111).setUnlocalizedName("Fiber").setMaxStackSize(1);
   	public static final Item Nanometerial = new Nanometerial(1112).setUnlocalizedName("Nanometerial").setMaxStackSize(1);
   	
@@ -105,7 +105,7 @@ public class MineSpace {
   
   
       	///////////////////////
-  	/*  PASSPORT ITEM    */
+  	/*  LICENSE ITEM    */
     	///////////////////////
   
   	//vehicle license
@@ -130,6 +130,38 @@ public class MineSpace {
   	public static final LargeShipLicense = new LargeShipLicense(1409).setUnlocalizedName("LargeShipLicense").setMaxStackSize(1);
   	public static final WingsLicense = new WingsLicense(1410).setUnlocalizedName("LargeShipLicense").setMaxStackSize(1);
    	public static final RoboticLicense = new RoboticLicense(1411).setUnlocalizedName("RoboticLicense").setMaxStackSize(1);
+  
+  
+  
+        ///////////////////////////////////////////////
+  	/*  METERIAL FOR ITEM ARMOUR & WEAPON       */
+    	///////////////////////////////////////////////
+  
+  	//ARMOUR
+    	public static final NanoFiber = new NanoFiber(1500).setUnlocalizedName("NanoFiber").setMaxStackSize(1); 
+  	public static final QuarkArmour = new QuarkArmour(1501).setUnlocalizedName("QuarkArmour").setMaxStackSize(1); 
+   	public static final RoboticCore = new RoboticCore(1502).setUnlocalizedName("RoboticCore").setMaxStackSize(1); //Need to craft Armour material
+     	public static final TitaniumCore = new TitaniumCore(1503).setUnlocalizedName("TitaniumCore").setMaxStackSize(1); //Titanium
+     	public static final IradiumCore = new IradiumCore(1504).setUnlocalizedName("IradiumCore").setMaxStackSize(1); //Iradium 
+     	public static final IVMetal = new IVMetal(1505).setUnlocalizedName("IVMetal").setMaxStackSize(1); //Silver
+     	public static final IXTiberiumCore = new IXTiberiumCore(1505).setUnlocalizedName("IXTiberiumCore").setMaxStackSize(1); //Tiberium
+     	public static final IIXNanoFiberMetal = new IIXNanoFiberMetal(1505).setUnlocalizedName("IIXNanoFiberMetal").setMaxStackSize(1); //Aluminium
+     	
+     	//WEAPONS AMMO
+	
+	/** public static final RoboticCore = new RoboticCore(1502).setUnlocalizedName("RoboticCore").setMaxStackSize(1); */
+	//public static final RoboticCore = new RoboticCore(1502).setUnlocalizedName("RoboticCore").setMaxStackSize(1); //Need to craft Armour material
+     	//public static final TitaniumCore = new TitaniumCore(1503).setUnlocalizedName("TitaniumCore").setMaxStackSize(1);
+	// ^^ use for core crafting ^^
+	
+	public static final BlasterCore = new BlasterCore(1550).setUnlocalizedName("BlasterCore").setMaxStackSize(45);
+	public static final VBXBlaster = new VGXBlaster(1551).setUnlocalizedName("VGXBlaster").setMaxStackSize(45); //BLUE VBX Blaster
+	public static final IradiumBlaster = new IradiumBlaster(1552).setUnlocalizedName("IradiumBlaster").setMaxStackSize(45); //RED Iradium Blaster
+  	public static final TiberiumBlaster = new TiberiumBlaster(1553).setUnlocalizedName("TiberiumBlaster").setMaxStackSize(45); //GREEN Tiberium Blaster
+  	public static final VoxiadiumHE = new VoxiadiumHE(1554).setUnlocalizedName("VoxiadiumHE").setMaxStackSize(1);
+  
+  
+  
   
   
   
