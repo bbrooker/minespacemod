@@ -39,14 +39,30 @@ public class MineSpace {
 	public static final Item Wrech = new Wrech(1101).setUnlocalizedName("Wrech").setMaxStackSize(1);
 	public static final Item Hammer = new Hammer(1102).setUnlocalizedName("Hammer").setMaxStackSize(1);
 	public static final Item Nails = new Nail(1103).setUnlocalizedName("Nail").setMaxStackSize(100);
-	public static final Item Metal = new Metal(1104).setUnlocalizedName("Metal").ssetMaxStackSize(100);
-
-	
-	
-	
-	
-  
-  
+	public static final Item Metal = new Metal(1104).setUnlocalizedName("Metal").setMaxStackSize(100);
+	public static final Item Titanium = new Titanium(1105).setUnlocalizedName("Titanium").setMaxStackSize(1);
+	public static final Item Aluminium = new Aluminium(1106).setUnlocalizedName("Aluminium").setMaxStackSize(1);
+	public static final Item Lead = new Lead(1107).setUnlocalizedName("Lead").setMaxStackSize(1);
+	public static final Item Iradium = new Iradium(1108).setUnlocalizedName("Iradium").setMaxStackSize(1);
+	public static final Item Silver = new Silver(1109).setUnlocalizedName("Silver").setMaxStackSize(1);
+	public static final Item Tungsten = new Tungsten(1110).setUnlocalizedName("Tungsten").setMaxStackSize(1);
+  	public static final Item Fiber = new Fiber(1111).setUnlocalizedName("Fiber").setMaxStackSize(1);
+  	public static final Item Nanometerial = new Nanometerial(1112).setUnlocalizedName("Nanometerial").setMaxStackSize(1);
+  	
+  	
+  	
+  	public static final Item CrystalBlue = new CrystalBlue(1200).setUnlocalizedName("CrystalBlue").setMaxStackSize(1);
+  	public static final Item CrystalRed = new CrystalRed(1201).setUnlocalizedName("CrystalRed").setMaxStackSize(1);
+  	public static final Item CrystalGreen = new CrystalGreen(1202).setUnlocalizedName("CrystalGreen").setMaxStackSize(1);
+  	public static final Item CrystalYellow = new CrystalYellow(1203).setUnlocalizedName("CrystalYellow").setMaxStackSize(1);
+  	public static final Item CrystalOrange = new CrystalOrange(1204).setUnlocalizedName("CrystalOrange").setMaxStackSize(1);
+  	public static final Item CrystalPurple = new CrystalPurple(1205).setUnlocalizedName("CrystalPurple").setMaxStackSize(1);
+  	public static final Item CrystalPink = new CrystalPink(1206).setUnlocalizedName("CrystalPink").setMaxStackSize(1);
+  	
+  	
+  	
+  	
+  	
   
   
   
