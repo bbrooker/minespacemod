@@ -233,7 +233,47 @@ public class MineSpace {
 
 
 
+		//ITEM ECON
+ 		LanguageRegistry.addName(GalacticSilver, "Galactic Silver");
+                LanguageRegistry.addName(BlackCoin, "Black Coin");
+ 		LanguageRegistry.addName(GalaxyGold, "Galaxy Gold");
+ 		LanguageRegistry.addName(CitizenCoin, "Citizen Coin");
+                LanguageRegistry.addName(OutlawCoin, "Outlaw Coin");
+ 		LanguageRegistry.addName(GuardianCoin, "Guardian Coin");
+                LanguageRegistry.addName(SinsCoin, "Sins Coin");
+ 		LanguageRegistry.addName(ReclassCoin, "Reclass Coin");
+ 		LanguageRegistry.addName(AirLicense, "Air License");
+                LanguageRegistry.addName(WeaponLicense, "Weapon License");
+ 		LanguageRegistry.addName(LargeWeaponLicense, "LargeWeapon License");
+ 		LanguageRegistry.addName(SpeederLicense, "Speeder License");
+                LanguageRegistry.addName(CitizenID, "Citizen ID");
+ 		LanguageRegistry.addName(OutlawID, "Outlaw ID");
+                LanguageRegistry.addName(PoliceID, "Police ID");
+ 		LanguageRegistry.addName(GIAID,"GIA ID"); // แก้เป็นตัวใหญ่
+ 		LanguageRegistry.addName(RebelID,"Rebel ID");
+ 		LanguageRegistry.addName(LargeShipLicense,"LargeShip License");
+ 		LanguageRegistry.addName(WingsLicense,"Wings License");
+ 		LanguageRegistry.addName(RoboticLicense,"Robotic License");
+ 		LanguageRegistry.addName(NanoFiber,"Nano Fiber");
+ 		LanguageRegistry.addName(QuarkArmour,"Quark Armour");
+ 		LanguageRegistry.addName(RoboticCore,"Robotic Core");
+ 		LanguageRegistry.addName(TitaniumCore,"Titanium Core");
+ 		LanguageRegistry.addName(IradiumCore,"Iradium Core");
+ 		LanguageRegistry.addName(IVMetal,"IV Metal");
+ 		LanguageRegistry.addName(IXTiberiumCore,"IXTiberium Core");
+ 		LanguageRegistry.addName(IIXNanoFiberMetal,"IIXNanoFiber Metal");
+ 		LanguageRegistry.addName(BlasterCore,"Blaster Core");
+ 		LanguageRegistry.addName(VGXBlaster,"VGX Blaster");
+ 		LanguageRegistry.addName(IradiumBlaster,"Iradium Blaster");
+ 		LanguageRegistry.addName(TiberiumBlaster,"Tiberium Blaster");
+ 		LanguageRegistry.addName(VoxiadiumHE,"VoxiadiumHE");
+ 	
 
+
+		//ITEM LICENSE
+		
+		
+		
 
                 // LanguageRegistry.instance().addStringLocalization("container.TestTabsStuff", "Test Stuff");
 
