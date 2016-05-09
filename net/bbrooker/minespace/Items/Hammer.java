@@ -16,7 +16,7 @@ public class Hammer extends Item {
 	
 	public Hammer(int id) {
 		super(id);
-		setMaxStackSize(64);
+		setMaxStackSize(1);
 		setCreativeTab(CreativeTabs.tabMaterials);
 		setUnlocalizedName("Hammer");
 		setTextureName("minespace:Hammer");
