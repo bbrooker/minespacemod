@@ -243,17 +243,21 @@ public class MineSpace {
                 LanguageRegistry.addName(SinsCoin, "Sins Coin");
  		LanguageRegistry.addName(ReclassCoin, "Reclass Coin");
  		LanguageRegistry.addName(AirLicense, "Air License");
+ 		
+ 		//ITEM LICENSE
                 LanguageRegistry.addName(WeaponLicense, "Weapon License");
  		LanguageRegistry.addName(LargeWeaponLicense, "LargeWeapon License");
  		LanguageRegistry.addName(SpeederLicense, "Speeder License");
                 LanguageRegistry.addName(CitizenID, "Citizen ID");
  		LanguageRegistry.addName(OutlawID, "Outlaw ID");
                 LanguageRegistry.addName(PoliceID, "Police ID");
- 		LanguageRegistry.addName(GIAID,"GIA ID"); // แก้เป็นตัวใหญ่
+ 		LanguageRegistry.addName(GiaID,"GIA ID"); // Fix it to Upper-case charactor
  		LanguageRegistry.addName(RebelID,"Rebel ID");
  		LanguageRegistry.addName(LargeShipLicense,"LargeShip License");
  		LanguageRegistry.addName(WingsLicense,"Wings License");
  		LanguageRegistry.addName(RoboticLicense,"Robotic License");
+ 		
+ 		//ITEM ARMOUR AND WEAPON
  		LanguageRegistry.addName(NanoFiber,"Nano Fiber");
  		LanguageRegistry.addName(QuarkArmour,"Quark Armour");
  		LanguageRegistry.addName(RoboticCore,"Robotic Core");
@@ -262,11 +266,13 @@ public class MineSpace {
  		LanguageRegistry.addName(IVMetal,"IV Metal");
  		LanguageRegistry.addName(IXTiberiumCore,"IXTiberium Core");
  		LanguageRegistry.addName(IIXNanoFiberMetal,"IIXNanoFiber Metal");
+ 		
+ 		//ITEM AMMO
  		LanguageRegistry.addName(BlasterCore,"Blaster Core");
  		LanguageRegistry.addName(VGXBlaster,"VGX Blaster");
  		LanguageRegistry.addName(IradiumBlaster,"Iradium Blaster");
  		LanguageRegistry.addName(TiberiumBlaster,"Tiberium Blaster");
- 		LanguageRegistry.addName(VoxiadiumHE,"VoxiadiumHE");
+ 		LanguageRegistry.addName(VoxiadiumHE,"Voxiadium HE");
  	
 
 
