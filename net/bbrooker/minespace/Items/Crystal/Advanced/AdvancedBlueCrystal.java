@@ -12,14 +12,14 @@ import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
-public class BlackCrystal extends Item {
+public class AdvancedRedCrystal extends Item {
 	
-	public BlackCrystal(int id) {
+	public AdvancedRedCrystal(int id) {
 		super(id);
 		setMaxStackSize(1);
 		setCreativeTab(CreativeTabs.tabMaterials);
-		setUnlocalizedName("BlackCrystal");
-		setTextureName("minespace:BlackCrystal");
+		setUnlocalizedName("AdvancedRedCrystal");
+		setTextureName("minespace:AdvancedRedCrystal");
 	}
 	
 	@SideOnly(Side.CLIENT) //add item lore
