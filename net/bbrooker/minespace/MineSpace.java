@@ -94,14 +94,14 @@ public class MineSpace {
   	public static final Item BlackCoin = new BlackCoin(1301).setUnlocalizedName("BlackCoin").setMaxStackSize(1024);
   	public static final Item GalaxyGold = new GalaxyGold(1302).setUnlocalizedName("BlackCoin").setMaxStackSize(1);
   
-  	//Quest ECON
+  	//Class + Quest ECON
   	public static final Item CitizenCoin = new CitizenCoin(1303).setUnlocalizedName("CitizenCoin").setMaxStackSize(1);
     	public static final Item OutlawCoin = new OutlawCoin(1304).setUnlocalizedName("OutlawCoin").setMaxStackSize(1);
-      	public static final Item ReclassCoin = new ReclassCoin(1307).setUnlocalizedName("ReclassCoin").setMaxStackSize(1024);
-  
-  
-  
-  
+  	public static final Item GuardianCoin = new GuardianCoin(1305).setUnlocalizedName("GuardianCoin").setMaxStackSize(1);
+    	public static final Item SinsCoin = new SinsCoin(1305).setUnlocalizedName("SinsCoin").setMaxStackSize(1);
+    	
+    	//RESTAT ECON
+        public static final Item ReclassCoin = new ReclassCoin(1307).setUnlocalizedName("ReclassCoin").setMaxStackSize(1);
   
   
   
