@@ -32,9 +32,11 @@ public class MineSpace {
 //////////////////////////////////////////////////////////////////////////////////////////////
 
 /*LIST YOUR MOD HERE [ITEM]
-  
+
+    	///////////////////////
 	ITEM METERIAL FOR CRAFT (IRON, METAL etc)*/
-	
+  	///////////////////////	
+  	
 	public static final Item Screw = new Screw(1100).setUnlocalizedName("Screw").setMaxStackSize(100);
 	public static final Item Wrech = new Wrech(1101).setUnlocalizedName("Wrech").setMaxStackSize(1);
 	public static final Item Hammer = new Hammer(1102).setUnlocalizedName("Hammer").setMaxStackSize(1);
@@ -49,8 +51,11 @@ public class MineSpace {
   	public static final Item Fiber = new Fiber(1111).setUnlocalizedName("Fiber").setMaxStackSize(1);
   	public static final Item Nanometerial = new Nanometerial(1112).setUnlocalizedName("Nanometerial").setMaxStackSize(1);
   	
-  	
+/*LIST YOUR MOD HERE [CRYSTAL]*/  	
+	
+	///////////////////////
   	//Crystal for crafting Lightsaber 
+  	///////////////////////
   	
   	public static final Item CrystalBlue = new CrystalBlue(1200).setUnlocalizedName("CrystalBlue").setMaxStackSize(1);
   	public static final Item CrystalRed = new CrystalRed(1201).setUnlocalizedName("CrystalRed").setMaxStackSize(1);
@@ -77,6 +82,25 @@ public class MineSpace {
     	public static final Item WarHeroesCrystalPurple = new WarHeroesCrystalPurple(1263).setUnlocalizedName("WarHeroesCrystalPurple").setMaxStackSize(1);
   	public static final Item WarHeroesCrystalOrange = new WarHeroesCrystalOrange(1264).setUnlocalizedName("WarHeroesCrystalOrange").setMaxStackSize(1);
   	
+  
+    	///////////////////////
+  	/*  ECONOMIC ITEM    */
+    	///////////////////////
+  
+  	//USE ALL OVER THE GALAXY
+     	public static final Item GalacticSilver = new GalacticSilver(1300).setUnlocalizedName("GalacticSilver").setMaxStackSize(1024);
+  
+  	//OTHER ECON
+  	public static final Item BlackCoin = new BlackCoin(1301).setUnlocalizedName("BlackCoin").setMaxStackSize(1024);
+  	public static final Item GalaxyGold = new GalaxyGold(1302).setUnlocalizedName("BlackCoin").setMaxStackSize(1);
+  
+  	//Quest ECON
+  	public static final Item CitizenCoin = new CitizenCoin(1303).setUnlocalizedName("CitizenCoin").setMaxStackSize(1);
+    	public static final Item OutlawCoin = new OutlawCoin(1304).setUnlocalizedName("OutlawCoin").setMaxStackSize(1);
+      	public static final Item ReclassCoin = new ReclassCoin(1307).setUnlocalizedName("ReclassCoin").setMaxStackSize(1024);
+  
+  
+  
   
   
   
