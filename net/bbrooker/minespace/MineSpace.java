@@ -57,30 +57,30 @@ public class MineSpace {
   	//Crystal for crafting Lightsaber 
   	///////////////////////
   	
-  	public static final Item CrystalBlue = new CrystalBlue(1200).setUnlocalizedName("CrystalBlue").setMaxStackSize(1);
-  	public static final Item CrystalRed = new CrystalRed(1201).setUnlocalizedName("CrystalRed").setMaxStackSize(1);
-  	public static final Item CrystalGreen = new CrystalGreen(1202).setUnlocalizedName("CrystalGreen").setMaxStackSize(1);
-  	public static final Item CrystalYellow = new CrystalYellow(1203).setUnlocalizedName("CrystalYellow").setMaxStackSize(1);
-  	public static final Item CrystalOrange = new CrystalOrange(1204).setUnlocalizedName("CrystalOrange").setMaxStackSize(1);
-  	public static final Item CrystalPurple = new CrystalPurple(1205).setUnlocalizedName("CrystalPurple").setMaxStackSize(1);
-  	public static final Item CrystalPink = new CrystalPink(1206).setUnlocalizedName("CrystalPink").setMaxStackSize(1);
-  	public static final Item CrystalBlack = new CrystalBlack(1207).setUnlocalizedName("CrystalBlack").setMaxStackSize(1);
-  	public static final Item CrystalWhite = new CrystalWhite(1208).setUnlocalizedName("CrystalWhite").setMaxStackSize(1);
+  	public static final Item BlueCrystal = new BlueCrystal(1200).setUnlocalizedName("BlueCrystal").setMaxStackSize(1);
+  	public static final Item RedCrystal = new RedCrystal(1201).setUnlocalizedName("RedCrystal").setMaxStackSize(1);
+  	public static final Item GreenCrystal = new GreenCrystal(1202).setUnlocalizedName("GreenCrystal").setMaxStackSize(1);
+  	public static final Item YellowCrystal = new YellowCrystal(1203).setUnlocalizedName("YellowCrystal").setMaxStackSize(1);
+  	public static final Item OrangeCrystal = new OrangeCrystal(1204).setUnlocalizedName("OrangeCrystal").setMaxStackSize(1);
+  	public static final Item PurpleCrystal = new PurpleCrystal(1205).setUnlocalizedName("PurpleCrystal").setMaxStackSize(1);
+  	public static final Item PinkCrystal = new PinkCrystal(1206).setUnlocalizedName("PinkCrystal").setMaxStackSize(1);
+  	public static final Item BlackCrystal = new BlackCrystal(1207).setUnlocalizedName("BlackCrystal").setMaxStackSize(1);
+  	public static final Item WhiteCrystal = new WhiteCrystal(1208).setUnlocalizedName("WhiteCrystal").setMaxStackSize(1);
   	
   	//ADVANCE
-  	public static final Item AdvancedCrystalBlue = new AdvancedCrystalBlue(1250).setUnlocalizedName("AdvancedCrystalBlue").setMaxStackSize(1);
-  	public static final Item AdvancedCrystalRed = new AdvancedCrystalRed(1251).setUnlocalizedName("AdvancedCrystalRed").setMaxStackSize(1);
-  	public static final Item AdvancedCrystalGreen = new AdvancedCrystalGreen(1252).setUnlocalizedName("AdvancedCrystalGreen").setMaxStackSize(1);
-  	public static final Item AdvancedCrystalPurple = new AdvancedCrystalPurple(1253).setUnlocalizedName("AdvancedCrystalPurple").setMaxStackSize(1);
-  	public static final Item AdvancedCrystalPink = new AdvancedCrystalPink(1254).setUnlocalizedName("AdvancedCrystalPink").setMaxStackSize(1);
+  	public static final Item AdvancedBlueCrystal = new AdvancedBlueCrystal(1250).setUnlocalizedName("AdvancedBlueCrystal").setMaxStackSize(1);
+  	public static final Item AdvancedRedCrystal = new AdvancedRedCrystal(1251).setUnlocalizedName("AdvancedRedCrystal").setMaxStackSize(1);
+  	public static final Item AdvancedGreenCrystal = new AdvancedGreenCrystal(1252).setUnlocalizedName("AdvancedGreenCrystal").setMaxStackSize(1);
+  	public static final Item AdvancedPurpleCrystal = new AdvancedPurpleCrystal(1253).setUnlocalizedName("AdvancedPurpleCrystal").setMaxStackSize(1);
+  	public static final Item AdvancedPinkCrystal = new AdvancedPinkCrystal(1254).setUnlocalizedName("AdvancedPinkCrystal").setMaxStackSize(1);
   	
   	
   	//WAR HEROES
-    	public static final Item WarHeroesCrystalBlue = new WarHeroesCrystalBlue(1260).setUnlocalizedName("WarHeroesCrystalBlue").setMaxStackSize(1);
-  	public static final Item WarHeroesCrystalRed = new WarHeroesCrystalRed(1261).setUnlocalizedName("WarHeroesCrystalRed").setMaxStackSize(1);
-  	public static final Item WarHeroesCrystalGreen = new WarHeroesCrystalGreen(1262).setUnlocalizedName("WarHeroesCrystalGreen").setMaxStackSize(1);
-    	public static final Item WarHeroesCrystalPurple = new WarHeroesCrystalPurple(1263).setUnlocalizedName("WarHeroesCrystalPurple").setMaxStackSize(1);
-  	public static final Item WarHeroesCrystalOrange = new WarHeroesCrystalOrange(1264).setUnlocalizedName("WarHeroesCrystalOrange").setMaxStackSize(1);
+    	public static final Item BlueWarHeroesCrystal = new BlueWarHeroesCrystal(1260).setUnlocalizedName("BlueWarHeroesCrystal").setMaxStackSize(1);
+  	public static final Item RedWarHeroesCrystal = new RedWarHeroesCrystal(1261).setUnlocalizedName("RedWarHeroesCrystal").setMaxStackSize(1);
+  	public static final Item GreenWarHeroesCrystal = new GreenWarHeroesCrystal(1262).setUnlocalizedName("GreenWarHeroesCrystal").setMaxStackSize(1);
+    	public static final Item PurpleWarHeroesCrystal = new PurpleWarHeroesCrystal(1263).setUnlocalizedName("PurpleWarHeroesCrystal").setMaxStackSize(1);
+  	public static final Item OrangeWarHeroesCrystal = new OrangeWarHeroesCrystal(1264).setUnlocalizedName("OrangeWarHeroesCrystal").setMaxStackSize(1);
   	
   
     	///////////////////////
