@@ -16,7 +16,7 @@ public class Nails extends Item {
 	
 	public Nails(int id) {
 		super(id);
-		setMaxStackSize(64);
+		setMaxStackSize(100);
 		setCreativeTab(CreativeTabs.tabMaterials);
 		setUnlocalizedName("Nails");
 		setTextureName("minespace:Nails");
