@@ -193,8 +193,47 @@ public class MineSpace {
 
         public MineSpace() {
 
-                //LanguageRegistry.addName(BaseballBatNail, "Spike bat");
-                //LanguageRegistry.addName(Slayerblade, "Slayerblade");
+		//ITEM NAME REGISTER ITEM METAL, Misc
+                LanguageRegistry.addName(Screw, "Screw");
+                LanguageRegistry.addName(Wrench, "Wrench");
+                LanguageRegistry.addName(Hammer, "Hammer");
+                LanguageRegistry.addName(Nails, "Nails");
+                LanguageRegistry.addName(Metal, "Metal");
+                LanguageRegistry.addName(Titanium, "Titanium Ore");
+                LanguageRegistry.addName(Aluminium, "Aluminium Ore");
+                LanguageRegistry.addName(Tiberium, "Tiberium Ore");
+                LanguageRegistry.addName(Silver, "Silver Ore");
+                LanguageRegistry.addName(Voxadium, "Voxadium Gas");
+                LanguageRegistry.addName(Fiber, "Fiber");
+                LanguageRegistry.addName(NanoFiber, "NanoFiber");
+
+
+		//ITEM CRYSTAL
+                LanguageRegistry.addName(BlueCrystal, "[C]Blue Crystal");
+                LanguageRegistry.addName(RedCrystal, "[C]Red Crystal");
+                LanguageRegistry.addName(GreenCrystal, "[C]Green Crystal");
+                LanguageRegistry.addName(YellowCrystal, "[C]Yellow Crystal");
+               	LanguageRegistry.addName(OrangeCrystal, "[C]Orange Crystal");
+                LanguageRegistry.addName(PurpleCrystal, "[C]Purple Crystal");
+                LanguageRegistry.addName(PinkCrystal, "[C]Pink Crystal");
+                LanguageRegistry.addName(BlackCrystal, "[C]Black Crystal");                
+                LanguageRegistry.addName(WhiteCrystal, "[C]White Crystal");
+                /* ADVANCED */
+                LanguageRegistry.addName(AdvancedBlueCrystal, "[AC]Advanced Blue Crystal");
+                LanguageRegistry.addName(AdvancedRedCrystal, "[AC]Advanced Red Crystal");
+                LanguageRegistry.addName(AdvancedGreenCrystal, "[AC]Advanced Green Crystal");
+                LanguageRegistry.addName(AdvancedPurpleCrystal, "[AC]Advanced Purple Crystal");
+               	LanguageRegistry.addName(AdvancedPinkCrystal, "[AC]Advanced Pink Crystal");
+                /* WARHEROES */                
+                LanguageRegistry.addName(BlueWarHeroesCrystal, "[WH]Blue War Heroes Crystal");
+                LanguageRegistry.addName(RedWarHeroesCrystal, "[WH]Red War Heroes Crystal");
+                LanguageRegistry.addName(GreenWarHeroesCrystal, "[WH]Green War Heroes Crystal");
+                LanguageRegistry.addName(PurpleWarHeroesCrystal, "[WH]Purple War Heroes Crystal");
+               	LanguageRegistry.addName(OrangeWarHeroesCrystal, "[WH]Pink War Heroes Crystal");
+
+
+
+
 
                 // LanguageRegistry.instance().addStringLocalization("container.TestTabsStuff", "Test Stuff");
 
