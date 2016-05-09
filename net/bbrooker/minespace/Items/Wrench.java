@@ -16,7 +16,7 @@ public class Wrench extends Item {
 	
 	public Wrench(int id) {
 		super(id);
-		setMaxStackSize(64);
+		setMaxStackSize(1);
 		setCreativeTab(CreativeTabs.tabMaterials);
 		setUnlocalizedName("Wrench");
 		setTextureName("minespace:Wrench");
