@@ -25,7 +25,7 @@ public class LargeWeaponLicense extends Item {
 	@SideOnly(Side.CLIENT) //add item lore
 	public void addInformation(ItemStack itemStack, EntityPlayer entityPlayer, List list, boolean is)
 		{
-		list.add("[License] Can Carry Weapon"); 
+		list.add("[License] Can Carry Heavy Weapon"); 
 		}
 		
 	}
