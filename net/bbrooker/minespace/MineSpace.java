@@ -59,11 +59,8 @@ public class MineSpace {
   	public static final Item CrystalOrange = new CrystalOrange(1204).setUnlocalizedName("CrystalOrange").setMaxStackSize(1);
   	public static final Item CrystalPurple = new CrystalPurple(1205).setUnlocalizedName("CrystalPurple").setMaxStackSize(1);
   	public static final Item CrystalPink = new CrystalPink(1206).setUnlocalizedName("CrystalPink").setMaxStackSize(1);
-  	
-  	//EDIT HERE BLACK, WHITE
-  	
-  	public static final Item CrystalPurple = new CrystalPurple(1207).setUnlocalizedName("CrystalPurple").setMaxStackSize(1);
-  	public static final Item CrystalPink = new CrystalPink(1208).setUnlocalizedName("CrystalPink").setMaxStackSize(1);
+  	public static final Item CrystalBlack = new CrystalBlack(1207).setUnlocalizedName("CrystalBlack").setMaxStackSize(1);
+  	public static final Item CrystalWhite = new CrystalWhite(1208).setUnlocalizedName("CrystalWhite").setMaxStackSize(1);
   	
   	//ADVANCE
   	public static final Item AdvancedCrystalBlue = new AdvancedCrystalBlue(1250).setUnlocalizedName("AdvancedCrystalBlue").setMaxStackSize(1);
