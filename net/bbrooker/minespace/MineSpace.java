@@ -104,6 +104,40 @@ public class MineSpace {
         public static final Item ReclassCoin = new ReclassCoin(1307).setUnlocalizedName("ReclassCoin").setMaxStackSize(1);
   
   
+      	///////////////////////
+  	/*  PASSPORT ITEM    */
+    	///////////////////////
+  
+  	//vehicle license
+        public static final Item AirLicense = new AirLicense(1400).setUnlocalizedName("AirLicense").setMaxStackSize(1);
+        public static final Item WeaponLicense = new WeaponLicense(1401).setUnlocalizedName("OutlawID").setMaxStackSize(1);
+  	public static final Item LargeWeaponLicense = new LargeWeaponLicense(1402).setUnlocalizedName("OutlawID").setMaxStackSize(1);
+  	public static final Item SpeederLicense = new SpeederLicense(1403).setUnlocalizedName("SpeederLicense").setMaxStackSize(1);
+  	
+  	//ID Card
+        public static final Item CitizenID = new CitizenID(1406).setUnlocalizedName("CitizenID").setMaxStackSize(1);
+        public static final Item OutlawID = new OutlawID(1405).setUnlocalizedName("OutlawID").setMaxStackSize(1);
+
+  
+  	//Goverment ID
+  	public static final Item PoliceID = new PoliceID(1406).setUnlocalizedName("PoliceID").setMaxStackSize(1);
+  	public static final Item GiaID = new GiaID(1407).setUnlocalizedName("GiaID").setMaxStackSize(1);
+  	
+  	//REBEL ID
+  	public static final RebelID = new RebelID(1408).setUnlocalizedName("RebelID").setMaxStackSize(1);
+  	
+  	// === CASH LICENSE ===
+  	public static final LargeShipLicense = new LargeShipLicense(1409).setUnlocalizedName("LargeShipLicense").setMaxStackSize(1);
+  	public static final WingsLicense = new WingsLicense(1410).setUnlocalizedName("LargeShipLicense").setMaxStackSize(1);
+   	public static final RoboticLicense = new RoboticLicense(1411).setUnlocalizedName("RoboticLicense").setMaxStackSize(1);
+  
+  
+  
+  
+  
+  
+  
+  
   
   
        @Instance("Minespace")
